@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Martha Flor Salinas
+# 👋 ¡Hola! Soy Martha Flor Salinas Guadarrama
 
 🔎 **Analista de Datos con formación en Ingeniería Civil**, Maestría en Ciencias del Agua y en Administración de la Construcción; con experiencia en construcción y gestión de recursos hídricos.
 Actualmente enfocada en transformar datos en decisiones estratégicas con herramientas como Python, SQL y Power BI.
